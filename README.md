@@ -1,4 +1,4 @@
-# Deep Learning with Tensorflow
+# Deep Learning with Keras TensorFlow
 
 In this Git repo, I'll use tensorflow to demo some DL algorithm
 
