@@ -1,7 +1,8 @@
-# Deep Learning with Keras TensorFlow
+### Deep Learning with Keras TensorFlow
 
-In this Git repo, I'll use tensorflow to demo some DL algorithm
+<hr>
 
-1. Artifical Neural Network (Linear)
-
-2. Convolutional Neural Network on CNN (Using MNIST digits)
+* MNIST image training with Tensorflow
+* MNIST image training with Keras
+* CIF10 image training with Keras
+* Stock Market prediction with Keras LSTM and Keras RNN
